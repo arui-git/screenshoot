@@ -1,0 +1,2 @@
+"""Desktop screenshot tool package."""
+
